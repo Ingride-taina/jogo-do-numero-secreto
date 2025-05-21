@@ -23,7 +23,7 @@ Escolher um número entre 1 e 10 : O usuário pode inserir o número no campo de
 
 Chute: O usuário pode clicar no botão "chutar" para iniciar o jogo.
 
-Resultado: O usuário é informado quando acerta, juntamente com a quantidade de tentativas necessárias.
+Resultado: O usuário é informado quando acerta, juntamente com a quantidade de tentativas que foram necessárias.
 
 ## Acessibilidade 🧏
 A aplicação conta com leitura em voz alta das mensagens e dicas do jogo, para ajudar pessoas com deficiência visual ou dificuldade de leitura.
