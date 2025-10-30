@@ -31,4 +31,4 @@ A aplicação conta com leitura em voz alta das mensagens e dicas do jogo, para 
 ##  Acesse o projeto
 
 Você pode testar o jogo aqui:  
-👉 [https://amigo-secreto-sigma-two.vercel.app](https://amigo-secreto-sigma-two.vercel.app)
+👉 https://jogonumerosecreto-eight-fawn.vercel.app/
